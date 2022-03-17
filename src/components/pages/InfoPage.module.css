@@ -1,0 +1,21 @@
+.boxInfo {
+  border: 1px solid black;
+  padding: 10px 40px;
+  margin: 40px 40px;
+  border-radius: 10px;
+  background-color: #eee;
+}
+
+.boxInfo p {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.boxInfo div {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.boxInfo div li {
+  list-style: none;
+}

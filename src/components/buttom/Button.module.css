@@ -1,0 +1,14 @@
+.button {
+  color: white;
+  background-color: #4169e1;
+  height: 50px;
+  width: 70px;
+  border: none;
+  border-radius: 8px;
+  font-size: 18px;
+  cursor: pointer;
+}
+.buttonBox {
+  margin-left: 700px;
+  /* margin-bottom: 100px; */
+}
